@@ -11,6 +11,7 @@ namespace Visa_Instrument
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// Bare en lille test
         [STAThread]
         static void Main()
         {
